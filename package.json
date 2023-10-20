@@ -1,6 +1,6 @@
 {
   "name": "camel-to-snake-string",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Convert string camel to snake case",
   "main": "app.js",
   "scripts": {
