@@ -1,0 +1,20 @@
+{
+  "name": "camel-to-snake-string",
+  "version": "1.0.0",
+  "description": "Convert string camel to snake case",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayansheikh6600/Camel-to-Snake-Case.git"
+  },
+  "author": "Ayan Sheikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayansheikh6600/Camel-to-Snake-Case/issues"
+  },
+  "homepage": "https://github.com/ayansheikh6600/Camel-to-Snake-Case#readme"
+}
